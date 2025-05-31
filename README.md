@@ -1,2 +1,14 @@
 # IronMabel
-Repositorio del curso de Ironhack con ejercicios de Programación Orientada a Objetos y Gestión de Bases de Datos. Incluye prácticas, retos y ejemplos desarrollados durante las clases para reforzar los conceptos aprendidos.
+
+Repositorio creado como parte del curso de **Ironhack**.
+
+Aquí encontrarás los ejercicios y prácticas relacionados con los módulos de:
+
+- 🧱 **Programación Orientada a Objetos (POO/Java)**
+- 🗃️ **Gestión de Bases de Datos (SQL, MySQL, etc.)**
+
+Este repositorio servirá para documentar el progreso del curso y guardar todo el código desarrollado durante las clases y retos propuestos.
+
+---
+
+🚀 *Let's code!*
