@@ -12,3 +12,5 @@ Este repositorio servirá para documentar el progreso del curso y guardar todo e
 ---
 
 🚀 *Let's code!*
+
+[Linkedin](https://www.linkedin.com/in/mabelmr/) 
